@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 README INFO
+=======
+>>>>>>> 04d60a8ef22bf57cb7f716f4ba0b3be344ba3e8d
 0-current_working_directory
 #!/bin/bash
 pwd
